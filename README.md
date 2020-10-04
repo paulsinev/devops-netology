@@ -7,3 +7,4 @@
 Файлы override
 Файлы конфигурации командной строки .terraformrc rerraform.rc
 
+05.10.20 changed URL
