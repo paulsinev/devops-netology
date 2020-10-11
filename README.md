@@ -8,3 +8,5 @@
 Файлы конфигурации командной строки .terraformrc rerraform.rc
 
 05.10.20 changed URL
+11.10.20 added tag v0.0 v0.1
+ 
