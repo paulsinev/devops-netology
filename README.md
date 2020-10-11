@@ -7,3 +7,5 @@
 Файлы override
 Файлы конфигурации командной строки .terraformrc rerraform.rc
 
+11.10.20
+fix added 
